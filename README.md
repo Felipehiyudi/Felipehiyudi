@@ -1,5 +1,13 @@
-## Hi there 👋
+## Olá! 👋
+## Meu nome é Felipe Hiyudi
 
+## - Estou estudando na Alura  por meio da rede estadual de educação do Paraná;
+## - Estou me desenvolvendo na linguagem JavaScript;
+## - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
+
+## Contato
+
+## felipe.kussaba.matos@escola.pr.gov.br
 <!--
 **Felipehiyudi/Felipehiyudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
